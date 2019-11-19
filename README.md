@@ -8,5 +8,6 @@
   1. [Git基礎](./introduction-to-git/basics.md)
   2. [Gitハンズオン](./introduction-to-git/hands-on.md)
   3. [Gitチートシート](./introduction-to-git/cheatsheet.md)
-  4. [Gitの設定](./introduction-to-git/config.md)
+  4. [Git用語集](./introduction-to-git/glossary.md)
+  5. [Git基本設定](./introduction-to-git/config.md)
 

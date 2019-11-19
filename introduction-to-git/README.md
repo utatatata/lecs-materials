@@ -15,7 +15,7 @@ Gitの入門資料です.
 → [Git用語集](./glossary.md)
 
 - Gitの設定方法やおすすめの設定が知りたい
-→ [Gitの設定](./config.md)
+→ [Git基本設定](./config.md)
 
 
 ## 目次
@@ -24,9 +24,10 @@ Gitの入門資料です.
 2. [Gitハンズオン](./hands-on.md)
 3. [Gitチートシート](./cheatsheet.md)
 4. [Git用語集](./glossary.md)
-5. [Gitの設定](./config.md)
+5. [Git基本設定](./config.md)
 
 ## TODO
 
 - Git応用 advance.md?
+  - ブランチ切っての作業
 - Gitプルリクエスト pull-request.md?
