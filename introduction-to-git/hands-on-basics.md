@@ -113,7 +113,7 @@ Date:   Wed Nov 20 06:39:49 2019 +0900
 
 ![GitHubスクリーンショット03](./resources/github-screenshot-03.png)
 
-また空っぽ.
+まだ空っぽ.
 
 
 ### リモートにブランチをプッシュする
