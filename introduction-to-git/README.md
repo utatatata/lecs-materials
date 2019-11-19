@@ -11,6 +11,9 @@ Gitの入門資料です.
 - Gitでやりたいことがあるが, やり方がわからない
 → [Gitチートシート](./cheatsheet.md)
 
+- わからない用語が出てきた
+→ [Git用語集](./glossary.md)
+
 - Gitの設定方法やおすすめの設定が知りたい
 → [Gitの設定](./config.md)
 
@@ -20,7 +23,8 @@ Gitの入門資料です.
 1. [Git基礎](./basics.md)
 2. [Gitハンズオン](./hands-on.md)
 3. [Gitチートシート](./cheatsheet.md)
-4. [Gitの設定](./config.md)
+4. [Git用語集](./glossary.md)
+5. [Gitの設定](./config.md)
 
 ## TODO
 
