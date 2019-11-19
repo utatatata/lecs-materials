@@ -47,7 +47,7 @@ Gitは分散型なので, リモートリポジトリを直接は編集しませ
 
 ## 全体の流れ (ローカル)
 
-![全体の流れ (ローカル)](./git-over-view-local.png)
+![全体の流れ (ローカル)](./resources/git-over-view-local.png)
 
 
 ## コミット
