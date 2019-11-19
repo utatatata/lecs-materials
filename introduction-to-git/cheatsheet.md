@@ -27,3 +27,20 @@ $ git commit -m "a commit message"
 ```
 
 ## リモート作業の流れ
+
+TODO
+
+
+## ステージングを取り消したい
+
+TODO
+
+
+## コミットを取り消したい
+
+TODO
+
+
+## 前の状態に戻したい
+
+TODO
