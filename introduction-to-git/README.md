@@ -6,7 +6,7 @@ Gitの入門資料です.
 → [Git基礎](./basics.md)
 
 - 実際に手を動かしてみたい
-→ [Gitハンズオン](./hands-on-md)
+→ [Gitハンズオン](./hands-on.md)
 
 - Gitでやりたいことがあるが, やり方がわからない
 → [Gitチートシート](./cheatsheet.md)
@@ -21,3 +21,8 @@ Gitの入門資料です.
 2. [Gitハンズオン](./hands-on.md)
 3. [Gitチートシート](./cheatsheet.md)
 4. [Gitの設定](./config.md)
+
+## TODO
+
+- Git応用 advance.md?
+- Gitプルリクエスト pull-request.md?
