@@ -6,8 +6,7 @@
 ## 目次
 
 1. [型と型定義](./types-and-type-definitions.md)
+2. [Functor, Applicative, Monad の基礎](./basics-of-functor-applicative-monad.md)
 
 
 ## TODO
-
-- Functor, Applicative, Monad の基礎: basics-of-functor-applicative-monad.md

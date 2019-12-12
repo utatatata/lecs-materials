@@ -283,3 +283,8 @@ product = foldl (*) one
 -- > product (Succ Zero : Succ (Succ Zero) : Succ (Succ (Succ Zero)) : Nil)
 -- = Succ (Succ (Succ (Succ (Succ (Succ Zero)))))
 ```
+
+## References
+
+- [PureScript Language Reference](https://github.com/purescript/documentation/blob/master/language/README.md)
+- [Pursuit](https://pursuit.purescript.org/)
